@@ -14,17 +14,27 @@ const formetHours=(hour)=>{
 const startWithZero =(num)=>{
     return num <10? `0${num}`:num
 }
+    const formatDate=(date)=>{
+        const options={weekday: "long",  year:"numeric", month: "long", day: "numeric",}
+       return date.toLocaleDateString(undefined,options)
+    }
+
+    const ampm = () => {
+     return currentTime.getHours() >= 12 ? " PM" : " AM"
+    }
+
     return (
       <>
           <div className="digital-clock">
               <h1>Digital Clock</h1>
               <div className="time">
                   {startWithZero(formetHours(currentTime.getHours()))}:
-                  {currentTime.getMinutes()}:
-                  {startWithZero(currentTime.getSeconds())}
+                  {startWithZero(currentTime.getMinutes())}:
+                  {startWithZero(currentTime.getSeconds())} 
+                  {ampm()}
               
               </div>
-              <div className="date">Thursday, February 6, 2024</div>
+              <div className="date">{formatDate(currentTime)}</div>
           </div>
           
       </>
