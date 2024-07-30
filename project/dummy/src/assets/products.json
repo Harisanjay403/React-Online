@@ -1,0 +1,103 @@
+[
+    {
+        "id": 89,
+        "name": "Farmers Pick",
+        "amt": "299",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3",
+        "latest": "No"
+
+    },
+    {
+        "id": 872,
+        "name": "Chicken Biriyani",
+        "amt": "299",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3",
+        "latest": "No"
+
+    },
+    {
+        "id": 248,
+        "name": "Naan",
+        "amt": "299",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3",
+        "latest": "No"
+
+    },
+    {
+        "id": 137,
+        "name": "Paneer Butter Masala",
+        "amt": "299",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3",
+        "latest": "No"
+
+    },
+    {
+        "id": 487,
+        "name": "Farmers Pick",
+        "amt": "299",
+        "shop": "Cheesecake ",
+        "ftype": "Pizza",
+        "pic":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3",
+        "latest": "No"
+
+    },
+    {
+        "id": 489,
+        "name": "Chocolate cake ",
+        "amt": "299",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3",
+        "latest": "No"
+
+    },
+    {
+        "id": 567,
+        "name": "Pancake ",
+        "amt": "299",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3",
+        "latest": "No"
+
+    },
+    {
+        "id": 839,
+        "name": "Farmers Pick",
+        "amt": "299",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3",
+        "latest": "No"
+
+    },
+    {
+        "id": 256,
+        "name": "Tandoori Chicken",
+        "amt": "299",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3",
+        "latest": "No"
+
+    },
+    {
+        "id": 789,
+        "name": "Litti Chokha ",
+        "amt": "299",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3",
+        "latest": "No"
+
+    }
+
+]

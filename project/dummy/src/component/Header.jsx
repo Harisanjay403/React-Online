@@ -1,0 +1,27 @@
+import React from 'react'
+import { Link} from 'react-router-dom';
+import '/workspaces/React-Online/project/dummy/src/component/Header.css'
+
+export const Header = () => {
+  return (
+    <>
+    <div className="navbar">
+        <div className="logo">Food Cart</div>
+        <ul>
+            <li>
+                <Link to={"/"}>Home</Link>
+            </li>
+            <li>
+                <Link to={"/cart"}>View Cart</Link>
+            </li>
+        </ul>
+
+    </div>
+        
+    </>
+    
+
+    
+  )
+}
+
