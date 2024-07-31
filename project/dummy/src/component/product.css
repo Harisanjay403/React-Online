@@ -33,3 +33,7 @@
 .product-detail button:hover{
     background-color:rgb(9, 189, 189);
 }
+
+.btnremove{
+    background-color: red !important;
+}

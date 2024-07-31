@@ -2,7 +2,7 @@
     {
         "id": 89,
         "name": "Farmers Pick",
-        "amt": "299",
+        "amt": "399",
         "shop": "Pizza Hut",
         "ftype": "Pizza",
         "pic":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3",
@@ -12,90 +12,90 @@
     {
         "id": 872,
         "name": "Chicken Biriyani",
-        "amt": "299",
+        "amt": "150",
         "shop": "Pizza Hut",
         "ftype": "Pizza",
-        "pic":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3",
+        "pic":"https://www.licious.in/blog/wp-content/uploads/2022/06/chicken-hyderabadi-biryani-01.jpg",
         "latest": "No"
 
     },
     {
         "id": 248,
         "name": "Naan",
-        "amt": "299",
+        "amt": "120",
         "shop": "Pizza Hut",
         "ftype": "Pizza",
-        "pic":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3",
+        "pic":"https://www.vegrecipesofindia.com/wp-content/uploads/2022/12/garlic-naan-3.jpg",
         "latest": "No"
 
     },
     {
         "id": 137,
         "name": "Paneer Butter Masala",
-        "amt": "299",
+        "amt": "200",
         "shop": "Pizza Hut",
         "ftype": "Pizza",
-        "pic":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3",
+        "pic":"https://cdn.shopify.com/s/files/1/2446/6407/files/Paneer_Butter_Masala_07.png?v=1668158322",
         "latest": "No"
 
     },
     {
         "id": 487,
-        "name": "Farmers Pick",
-        "amt": "299",
+        "name": "Orange Juice",
+        "amt": "60",
         "shop": "Cheesecake ",
         "ftype": "Pizza",
-        "pic":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3",
+        "pic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7wUaGzEWFY0gATZ3B-5jX5HFo0w_gXBFnmw&s",
         "latest": "No"
 
     },
     {
         "id": 489,
         "name": "Chocolate cake ",
-        "amt": "299",
+        "amt": "600/kg",
         "shop": "Pizza Hut",
         "ftype": "Pizza",
-        "pic":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3",
+        "pic":"https://mrbrownbakery.com/image/images/GJ7uCwGiteTF24HTWBclkziVTdhpQeZWH23MvQfq.jpeg?p=full",
         "latest": "No"
 
     },
     {
         "id": 567,
         "name": "Pancake ",
-        "amt": "299",
+        "amt": "50",
         "shop": "Pizza Hut",
         "ftype": "Pizza",
-        "pic":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3",
+        "pic":"https://www.onceuponachef.com/images/2009/08/pancakes-01-760x1040.jpg",
         "latest": "No"
 
     },
     {
         "id": 839,
-        "name": "Farmers Pick",
-        "amt": "299",
+        "name": "Parata",
+        "amt": "30",
         "shop": "Pizza Hut",
         "ftype": "Pizza",
-        "pic":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3",
+        "pic":"https://5.imimg.com/data5/SELLER/Default/2024/4/408531247/XJ/CU/GL/5080856/bun-parotta-500x500.jpg",
         "latest": "No"
 
     },
     {
         "id": 256,
         "name": "Tandoori Chicken",
-        "amt": "299",
+        "amt": "599",
         "shop": "Pizza Hut",
         "ftype": "Pizza",
-        "pic":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3",
+        "pic":"https://onestophalal.com/cdn/shop/articles/air_fryer_chicken_tandoori-1694242200588_1200x.jpg?v=1694242335",
         "latest": "No"
 
     },
     {
         "id": 789,
         "name": "Litti Chokha ",
-        "amt": "299",
+        "amt": "239",
         "shop": "Pizza Hut",
         "ftype": "Pizza",
-        "pic":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3",
+        "pic":"https://www.secondrecipe.com/wp-content/uploads/2019/11/litti-chokha-1.jpg",
         "latest": "No"
 
     }
