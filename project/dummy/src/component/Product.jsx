@@ -1,15 +1,18 @@
-import React from 'react'
+import React, { useContext } from 'react'
 import '../component/product.css'
+import {cartContext} from '../App'
 
-export const Product = ({product, cart, setCart}) => {
+export const Product = ({product}) => {
   const productname=product.name.length>20? product.name.substring(0,20)+"..":product.name
-   
+  
+  const {cart,setCart}=useContext(cartContext)
+
   const addCart=()=>{
     setCart([...cart,product])
   }
 
   const removeCart = () =>{
-    cart.filter((c)=>c.id !== product.id)
+    setCart(cart.filter(c => c.id !== product.id));
   }
   return (
     <div className="product">
